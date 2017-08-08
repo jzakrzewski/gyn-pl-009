@@ -1,3 +1,5 @@
+// Copyright © 2017 Jakub Zakrzewski
+
 package main
 
 import (
